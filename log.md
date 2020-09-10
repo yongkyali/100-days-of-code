@@ -8,5 +8,14 @@
 
 **Link to work:** [Next Steam Sale](https://codesandbox.io/s/next-steam-sale-fq8gw)
 
+### Day 2: September 10th, 2020
+
+**Today's Progress**: (Still) Playing with Moment JS.
+
+**Thoughts:** I finally managed to create some diffs, refactor steam event schedule using Array for moments. Tomorrow will be making the project look alike [the real site](https://www.whenisthenextsteamsale.com/). I learned how to set a listener yesterday, and today I found out a bug which happens because I don't remove that listener on page unmount (Yeay!).
+
+**Link to work:** [Next Steam Sale](https://codesandbox.io/s/next-steam-sale-fq8gw)
+
 **Link(s) to work**
+
 1. [Next Steam Sale](https://codesandbox.io/s/next-steam-sale-fq8gw)
