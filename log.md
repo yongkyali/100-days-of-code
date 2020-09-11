@@ -16,6 +16,14 @@
 
 **Link to work:** [Next Steam Sale](https://codesandbox.io/s/next-steam-sale-fq8gw)
 
+### Day 3: September 11st, 2020
+
+**Today's Progress**: Completed my first project.
+
+**Thoughts:** Completed the project. Do replace some repepetitive code as one reusable function. Got inspired and powered by Lando Norris's vibes after watching McLarens's YouTube Channel. Overall great day of code with no problems!
+
+**Link to work:** [Next Steam Sale](https://codesandbox.io/s/next-steam-sale-fq8gw)
+
 **Link(s) to work**
 
 1. [Next Steam Sale](https://codesandbox.io/s/next-steam-sale-fq8gw)
