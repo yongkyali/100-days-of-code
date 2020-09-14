@@ -24,6 +24,15 @@
 
 **Link to work:** [Next Steam Sale](https://codesandbox.io/s/next-steam-sale-fq8gw)
 
+### Day 3: September 13rd, 2020
+
+**Today's Progress**: Completed my first project.
+
+**Thoughts:** Flashback review the PHP Telegram v4 docs project that has been left behind of almost 3 months. I spend by hour just reviewing and preparing where to improve and continue on.
+
+**Link to work:** [Telegram PHP SDK Docs](https://github.com/telegram-bot-sdk/website)
+
 **Link(s) to work**
 
 1. [Next Steam Sale](https://codesandbox.io/s/next-steam-sale-fq8gw)
+2. [Telegram PHP SDK Docs](https://github.com/telegram-bot-sdk/website)
